@@ -37,6 +37,8 @@ modality-specific tasks, etc.).
 | [`cornucopia`](https://github.com/balbasty/cornucopia)         | An abundance of augmentation layers | 🟢 |
 | [`nitorch`](https://github.com/balbasty/nitorch)               | An (overweight and poorly maintained) package for everything neuroimaging | 🟠 |
 | [`synthsurf`](https://github.com/balbasty/synthsurf)           | Surface-based image synthesis and PyTorch utilities for triangular surfaces | 🟠 |
+| [`synthspline`](https://github.com/balbasty/synthspline)       | Synthetic tubular structures (vessels, axons) for NN pretraining  | 🟠 |
+| [`cassetta`](https://github.com/balbasty/cassetta)             | A deep learning toolbox (under early development) | 🔴 |
 | [`braindataprep`](https://github.com/balbasty/braindataprep)   | Download, bidsify and preprocess public datasets (work-in-progress) | 🔴 |
 
 ### 🇳 Numpy tools
