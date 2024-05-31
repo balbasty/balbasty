@@ -1,4 +1,4 @@
-### 🔥 PyTorch extensions
+### <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="20" /> PyTorch extensions
 
 These repositories are small self-contained tools written in pure PyTorch, 
 that I have found useful in many projects. 
@@ -41,7 +41,7 @@ modality-specific tasks, etc.).
 | [`cassetta`](https://github.com/balbasty/cassetta)             | A deep learning toolbox (under early development) | 🔴 |
 | [`braindataprep`](https://github.com/balbasty/braindataprep)   | Download, bidsify and preprocess public datasets (work-in-progress) | 🔴 |
 
-### 🇳 Numpy tools
+### <img src="https://www.svgrepo.com/show/354127/numpy.svg" height="20" /> Numpy tools
 
 | Package                                                                | Description | Readiness |
 | ---------------------------------------------------------------------- | ----------- | --------- |
@@ -49,7 +49,7 @@ modality-specific tasks, etc.).
 | [`optimal_affine`](https://github.com/balbasty/optimal_affine)         | Build optimal "subject to mean space" affines from "subject to subject" pairwise affines | 🟢 |
 | [`metrics`](https://github.com/balbasty/metrics)                       | A bunch of metrics | 🔴 |
 
-### 〽️ Matlab tools
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/268px-Matlab_Logo.png" height="20" /> Matlab tools 
 
 | Package                                                            | Description | Readiness |
 | ------------------------------------------------------------------ | ----------- | --------- |
@@ -58,7 +58,7 @@ modality-specific tasks, etc.).
 | [`super-resolution`](https://github.com/balbasty/super-resolution) | MTV-based denoising/super-resolution | 🟢 |
 | [`cmaps`](https://github.com/balbasty/cmaps)                       | (Some) Matplotlib colormaps in Matlab | 🟢 |
 
-### Tensorflow tools
+### <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height="20" /> Tensorflow tools
 
 | Package                                                        | Description | Readiness |
 | -------------------------------------------------------------- | ----------- | --------- |
